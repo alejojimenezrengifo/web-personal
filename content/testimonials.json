@@ -1,0 +1,23 @@
+[
+  {
+    "id": "t-1",
+    "name": "Carlos Rodríguez",
+    "role": "CTO / Tech Lead",
+    "avatar": "/images/avatar-1.jpg",
+    "content": "La capacidad de Alejo para alinear la gobernanza de PMO con prácticas modernas de DevOps transformó la entrega de software en nuestra organización."
+  },
+  {
+    "id": "t-2",
+    "name": "María Fernánda López",
+    "role": "VP of Engineering",
+    "avatar": "/images/avatar-2.jpg",
+    "content": "Un profesional excepcional con una visión integral de arquitectura, liderazgo técnico y optimización continua de procesos."
+  },
+  {
+    "id": "t-3",
+    "name": "Javier Gómez",
+    "role": "Senior Product Manager",
+    "avatar": "/images/avatar-3.jpg",
+    "content": "Su claridad metodológica y dominio de herramientas de vanguardia permitieron cumplir hitos de entrega críticos sin sacrificar calidad."
+  }
+]

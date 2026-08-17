@@ -1,0 +1,14 @@
+[
+  {
+    "category": "DevOps & Cloud",
+    "items": ["Docker", "Kubernetes", "CI/CD Pipelines", "Terraform", "AWS", "GitHub Actions"]
+  },
+  {
+    "category": "PMO & Gestión",
+    "items": ["Agile / Scrum", "Gobernanza de Proyectos", "Gestión de Riesgos", "OKRs & KPIs", "Gestión de Equipos"]
+  },
+  {
+    "category": "Desarrollo & Arquitectura",
+    "items": ["TypeScript / JavaScript", "React / Next.js", "Python", "REST APIs", "Node.js", "Arquitectura Web"]
+  }
+]

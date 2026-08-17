@@ -1,0 +1,26 @@
+[
+  {
+    "id": "project-1",
+    "title": "Plataforma de Monitoreo & Automatización DevOps",
+    "description": "Orquestación e integración de pipelines CI/CD con métricas de salud en tiempo real, reduciendo el tiempo de despliegue en un 45%.",
+    "tags": ["DevOps", "Docker", "Kubernetes", "GitHub Actions", "Terraform"],
+    "link": "#",
+    "featured": true
+  },
+  {
+    "id": "project-2",
+    "title": "Sistema de Gestión de Proyectos PMO Enterprise",
+    "description": "Dashboard centralizado para el seguimiento de OKRs, KPIs y gobernanza de proyectos multiequipo con trazabilidad punta a punta.",
+    "tags": ["PMO", "Agile", "Scrum", "TypeScript", "Next.js"],
+    "link": "#",
+    "featured": true
+  },
+  {
+    "id": "project-3",
+    "title": "Grabador & Transcriptor Inteligente de Reuniones",
+    "description": "Aplicación web en Next.js y Vercel para captura, transcripción automatizada y síntesis ejecutiva de sesiones de trabajo.",
+    "tags": ["Next.js", "AI", "Vercel", "Tailwind CSS"],
+    "link": "#",
+    "featured": true
+  }
+]
